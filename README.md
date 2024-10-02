@@ -1,4 +1,4 @@
-# ewe-audio-classification
+## ewe-audio-classification
 # __TechCabal Ewè Audio Translation Challenge__
 
 Can you build a model to recognise Ewè commands from audio samples?
@@ -10,5 +10,7 @@ In many parts of the world, navigating public spaces remains a significant chall
 The objective of this hackathon is to create machine learning models that can accurately classify audio recordings of basic directional commands in Ewè: "up," "down," "stop," "go," "left," "right," "yes," and "no."
 
 The solutions will be used in a navigation voice assistant for visually impaired individuals who speak Ewè. By focusing on this specific use case, the challenge underscores the potential of AI for social good, particularly in underrepresented African languages.
+
+Challenge link: https://zindi.africa/competitions/techcabal-ewe-audio-translation-challenge 
 
 
